@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "7.1.1",
+    "versionCode": "711",
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/master/MagiskManager-v7.1.1.apk"
+  },
+  "magisk": {
+    "version": "19.0",
+    "versionCode": "19",
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/master/Magisk-v19.0.zip",
+    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
+    "md5": "e867e1c75d7e93db99a55681e11c02e1"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "11",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/snet.apk"
+  }
+}

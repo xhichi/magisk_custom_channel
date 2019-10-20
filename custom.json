@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "7.1.1",
-    "versionCode": "203",
-    "link": "https://github.com/xhichi/magisk_custom_channel/raw/master/MagiskManager-v7.1.1.apk"
+    "version": "7.3.5",
+    "versionCode": "243",
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/19.4-7.3.5-arter/MagiskManager-v7.3.5.apk"
   },
   "magisk": {
-    "version": "19.0",
-    "versionCode": "203",
-    "link": "https://github.com/xhichi/magisk_custom_channel/raw/master/Magisk-v19.0.zip",
-    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
-    "md5": "e867e1c75d7e93db99a55681e11c02e1"
+    "version": "19.4-arter97",
+    "versionCode": "97979",
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/19.4-7.3.5-arter/Magisk-v19.4.zip",
+    "note": "https://arter97.tistory.com/2",
+    "md5": "b82c966afaea8b5e7203983d143c8e5f"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"

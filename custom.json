@@ -2,14 +2,14 @@
   "app": {
     "version": "7.4.0",
     "versionCode": "253",
-    "link": "https://github.com/xhichi/magisk_custom_channel/raw/20.0-7.4.0-arter/MagiskManager-v7.4.0.apk"
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/20.0-7.4.0-arter-dx160/MagiskManager-v7.4.0.apk"
   },
   "magisk": {
     "version": "20.0-arter97",
     "versionCode": "97979",
-    "link": "https://github.com/xhichi/magisk_custom_channel/raw/20.0-7.4.0-arter/Magisk-v20.0.zip",
+    "link": "https://github.com/xhichi/magisk_custom_channel/raw/20.0-7.4.0-arter-dx160/Magisk-v20.0.zip",
     "note": "https://arter97.tistory.com/2",
-    "md5": "0c71bb700e830834d102f789ee3a6d12"
+    "md5": "02e11a638ae17199ce01bc0933ba470f"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
